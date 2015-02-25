@@ -10,4 +10,5 @@ nayeem: nayeem.cpp
 	${CC} ${CFLAGS} nayeem.cpp -o nayeem
 
 clean:
-	rm -rf nayeem
+	rm -rf nayeem 
+
