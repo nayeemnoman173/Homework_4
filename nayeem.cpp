@@ -1,3 +1,7 @@
+//Program Written By Nayeem Al Noman
+//Date: 02/24/2015
+//URL for github:https://github.com/nayeemnoman173/Homework_4
+
 #include <iostream>
 #include <fstream>
 #include <cstring>
